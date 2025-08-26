@@ -1,4 +1,3 @@
-
 # TngoRPG
 
 Bienvenido a **TngoRPG**, un proyecto desarrollado con **RPG Maker VX Ace**.
